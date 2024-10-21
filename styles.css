@@ -4,7 +4,7 @@
 	gap: 4px;
 	color: white;
 	font-size: 28px;
-	grid-template-columns: repeat(4, 1fr);
+	grid-template-columns: repeat(4, 242.5px);
 	grid-template-rows: repeat(5, 124px);
 }
 
